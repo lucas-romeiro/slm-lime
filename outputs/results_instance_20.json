@@ -1,0 +1,4547 @@
+{
+    "5": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "fractal dimension error",
+            "mean compactness",
+            "radius error",
+            "symmetry error",
+            "mean texture",
+            "mean radius",
+            "smoothness error",
+            "mean smoothness",
+            "mean symmetry",
+            "texture error"
+        ],
+        "weights": [
+            -0.12578838372712006,
+            0.12088621041853592,
+            0.12088621041853592,
+            0.12088621041853592,
+            0.10705938345501452,
+            -0.06980760534532074,
+            -0.06980760534532074,
+            0.05107860507321518,
+            0.05107860507321518,
+            0.05107860507321518
+        ],
+        "feature_importance_map": {
+            "fractal dimension error": -0.12578838372712006,
+            "mean compactness": 0.12088621041853592,
+            "radius error": 0.12088621041853592,
+            "symmetry error": 0.12088621041853592,
+            "mean texture": 0.10705938345501452,
+            "mean radius": -0.06980760534532074,
+            "smoothness error": -0.06980760534532074,
+            "mean smoothness": 0.05107860507321518,
+            "mean symmetry": 0.05107860507321518,
+            "texture error": 0.05107860507321518
+        }
+    },
+    "105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "compactness error",
+            "mean compactness",
+            "mean symmetry",
+            "mean texture",
+            "symmetry error",
+            "smoothness error",
+            "fractal dimension error",
+            "texture error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.2697678966374054,
+            -0.18602260943468646,
+            0.18113000776486374,
+            0.13965809286264425,
+            0.13375298303987468,
+            0.13180022184710796,
+            -0.1300769590181761,
+            -0.10458354608646625,
+            0.082540624060425,
+            -0.06343315938247554
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2697678966374054,
+            "compactness error": -0.18602260943468646,
+            "mean compactness": 0.18113000776486374,
+            "mean symmetry": 0.13965809286264425,
+            "mean texture": 0.13375298303987468,
+            "symmetry error": 0.13180022184710796,
+            "smoothness error": -0.1300769590181761,
+            "fractal dimension error": -0.10458354608646625,
+            "texture error": 0.082540624060425,
+            "mean smoothness": -0.06343315938247554
+        }
+    },
+    "205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "fractal dimension error",
+            "texture error",
+            "mean radius",
+            "symmetry error",
+            "mean compactness",
+            "mean symmetry",
+            "compactness error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.21772791396880117,
+            0.11728144967152188,
+            -0.11182580765059756,
+            0.09911747396610908,
+            0.09278214346495135,
+            -0.0896787325573484,
+            0.07281781757306965,
+            0.06709511289167046,
+            0.06253543866522798,
+            -0.027733938129221456
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21772791396880117,
+            "mean texture": 0.11728144967152188,
+            "fractal dimension error": -0.11182580765059756,
+            "texture error": 0.09911747396610908,
+            "mean radius": 0.09278214346495135,
+            "symmetry error": -0.0896787325573484,
+            "mean compactness": 0.07281781757306965,
+            "mean symmetry": 0.06709511289167046,
+            "compactness error": 0.06253543866522798,
+            "mean fractal dimension": -0.027733938129221456
+        }
+    },
+    "305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "mean radius",
+            "radius error",
+            "mean smoothness",
+            "smoothness error",
+            "mean fractal dimension",
+            "mean compactness",
+            "fractal dimension error",
+            "symmetry error",
+            "texture error",
+            "compactness error"
+        ],
+        "weights": [
+            0.18322755186308498,
+            0.16288028283466707,
+            -0.14343947825124148,
+            0.1213505298761075,
+            -0.10744887525229854,
+            0.05777188039902342,
+            -0.05760310488981998,
+            0.048256700157413304,
+            -0.04317469067690567,
+            0.03221274885319845
+        ],
+        "feature_importance_map": {
+            "mean radius": 0.18322755186308498,
+            "radius error": 0.16288028283466707,
+            "mean smoothness": -0.14343947825124148,
+            "smoothness error": 0.1213505298761075,
+            "mean fractal dimension": -0.10744887525229854,
+            "mean compactness": 0.05777188039902342,
+            "fractal dimension error": -0.05760310488981998,
+            "symmetry error": 0.048256700157413304,
+            "texture error": -0.04317469067690567,
+            "compactness error": 0.03221274885319845
+        }
+    },
+    "405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "compactness error",
+            "mean symmetry",
+            "symmetry error",
+            "fractal dimension error",
+            "texture error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.2129408696032638,
+            0.1513532282406386,
+            0.09015216062401508,
+            0.07824596125930196,
+            -0.06259785374950057,
+            -0.05457150862911259,
+            0.053933745496193355,
+            -0.03780169381898992,
+            0.03531825076733335,
+            -0.008080647173931024
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2129408696032638,
+            "mean radius": 0.1513532282406386,
+            "mean texture": 0.09015216062401508,
+            "mean compactness": 0.07824596125930196,
+            "compactness error": -0.06259785374950057,
+            "mean symmetry": -0.05457150862911259,
+            "symmetry error": 0.053933745496193355,
+            "fractal dimension error": -0.03780169381898992,
+            "texture error": 0.03531825076733335,
+            "mean smoothness": -0.008080647173931024
+        }
+    },
+    "505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "symmetry error",
+            "mean radius",
+            "texture error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.21530399830861457,
+            0.1469379732208406,
+            0.09300586843320424,
+            0.0779658184805101,
+            -0.05493267746262903,
+            0.036703667877790294,
+            0.035380161631384695,
+            0.032702033119005554,
+            0.028868554346607317,
+            -0.02031403567474945
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21530399830861457,
+            "mean texture": 0.1469379732208406,
+            "mean compactness": 0.09300586843320424,
+            "mean symmetry": 0.0779658184805101,
+            "fractal dimension error": -0.05493267746262903,
+            "mean fractal dimension": 0.036703667877790294,
+            "symmetry error": 0.035380161631384695,
+            "mean radius": 0.032702033119005554,
+            "texture error": 0.028868554346607317,
+            "mean smoothness": -0.02031403567474945
+        }
+    },
+    "605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "fractal dimension error",
+            "mean radius",
+            "mean compactness",
+            "mean texture",
+            "symmetry error",
+            "mean fractal dimension",
+            "compactness error",
+            "mean symmetry",
+            "texture error"
+        ],
+        "weights": [
+            0.24696810062126434,
+            -0.08131186558361368,
+            0.08080273039336817,
+            0.053827838642268394,
+            0.0516861782763079,
+            -0.03056618375522687,
+            0.01979828633397882,
+            -0.019557394012282424,
+            0.015944944420174894,
+            -0.003052039859743895
+        ],
+        "feature_importance_map": {
+            "radius error": 0.24696810062126434,
+            "fractal dimension error": -0.08131186558361368,
+            "mean radius": 0.08080273039336817,
+            "mean compactness": 0.053827838642268394,
+            "mean texture": 0.0516861782763079,
+            "symmetry error": -0.03056618375522687,
+            "mean fractal dimension": 0.01979828633397882,
+            "compactness error": -0.019557394012282424,
+            "mean symmetry": 0.015944944420174894,
+            "texture error": -0.003052039859743895
+        }
+    },
+    "705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean fractal dimension",
+            "mean radius",
+            "mean symmetry",
+            "mean smoothness",
+            "fractal dimension error",
+            "smoothness error",
+            "symmetry error",
+            "compactness error"
+        ],
+        "weights": [
+            0.20817196148127362,
+            0.12622349461147384,
+            0.07691847437471212,
+            0.06991217232214893,
+            0.06716266900235648,
+            -0.056785662196244945,
+            -0.0548502887677428,
+            -0.054394818612332814,
+            -0.046076845872203384,
+            0.03653572704475917
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20817196148127362,
+            "mean texture": 0.12622349461147384,
+            "mean fractal dimension": 0.07691847437471212,
+            "mean radius": 0.06991217232214893,
+            "mean symmetry": 0.06716266900235648,
+            "mean smoothness": -0.056785662196244945,
+            "fractal dimension error": -0.0548502887677428,
+            "smoothness error": -0.054394818612332814,
+            "symmetry error": -0.046076845872203384,
+            "compactness error": 0.03653572704475917
+        }
+    },
+    "805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean compactness",
+            "texture error",
+            "compactness error",
+            "smoothness error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.17771437905569556,
+            0.11833280619267704,
+            0.08367420807479982,
+            -0.07582188690928426,
+            0.06675085584399375,
+            0.062247347857898414,
+            -0.05259717102212785,
+            0.04075082289574456,
+            -0.021585777935674375,
+            -0.018000274382009587
+        ],
+        "feature_importance_map": {
+            "radius error": 0.17771437905569556,
+            "mean radius": 0.11833280619267704,
+            "mean texture": 0.08367420807479982,
+            "fractal dimension error": -0.07582188690928426,
+            "mean symmetry": 0.06675085584399375,
+            "mean compactness": 0.062247347857898414,
+            "texture error": -0.05259717102212785,
+            "compactness error": 0.04075082289574456,
+            "smoothness error": -0.021585777935674375,
+            "symmetry error": -0.018000274382009587
+        }
+    },
+    "905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean smoothness",
+            "texture error",
+            "mean symmetry",
+            "mean texture",
+            "smoothness error",
+            "compactness error",
+            "mean compactness",
+            "fractal dimension error"
+        ],
+        "weights": [
+            0.22517344857782806,
+            0.10752191925115223,
+            -0.07229715938119688,
+            0.05743472839689206,
+            0.057111113177622796,
+            0.04215653121328846,
+            -0.041286291343810455,
+            0.03414783427485758,
+            0.03409082342701764,
+            0.019002565574125527
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22517344857782806,
+            "mean radius": 0.10752191925115223,
+            "mean smoothness": -0.07229715938119688,
+            "texture error": 0.05743472839689206,
+            "mean symmetry": 0.057111113177622796,
+            "mean texture": 0.04215653121328846,
+            "smoothness error": -0.041286291343810455,
+            "compactness error": 0.03414783427485758,
+            "mean compactness": 0.03409082342701764,
+            "fractal dimension error": 0.019002565574125527
+        }
+    },
+    "1005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "mean smoothness",
+            "mean fractal dimension",
+            "smoothness error",
+            "compactness error",
+            "mean symmetry",
+            "symmetry error"
+        ],
+        "weights": [
+            0.23972154223260056,
+            0.12382636240671407,
+            0.10330420248492798,
+            -0.07463941463899433,
+            0.03859129059338791,
+            -0.037017388228452054,
+            0.03155462963109813,
+            0.020937761534687196,
+            -0.016563898207154877,
+            -0.01615212302910126
+        ],
+        "feature_importance_map": {
+            "radius error": 0.23972154223260056,
+            "mean radius": 0.12382636240671407,
+            "mean texture": 0.10330420248492798,
+            "fractal dimension error": -0.07463941463899433,
+            "mean smoothness": 0.03859129059338791,
+            "mean fractal dimension": -0.037017388228452054,
+            "smoothness error": 0.03155462963109813,
+            "compactness error": 0.020937761534687196,
+            "mean symmetry": -0.016563898207154877,
+            "symmetry error": -0.01615212302910126
+        }
+    },
+    "1105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "texture error",
+            "smoothness error",
+            "mean fractal dimension",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.23884323629978071,
+            0.09083692487579693,
+            0.08158607015914794,
+            0.07049862513989921,
+            0.0483873995455299,
+            -0.03520697083196252,
+            -0.022665219528407835,
+            -0.021433681238013584,
+            0.012932718358072182,
+            -0.004671265481671204
+        ],
+        "feature_importance_map": {
+            "radius error": 0.23884323629978071,
+            "mean radius": 0.09083692487579693,
+            "mean texture": 0.08158607015914794,
+            "mean compactness": 0.07049862513989921,
+            "mean symmetry": 0.0483873995455299,
+            "fractal dimension error": -0.03520697083196252,
+            "texture error": -0.022665219528407835,
+            "smoothness error": -0.021433681238013584,
+            "mean fractal dimension": 0.012932718358072182,
+            "mean smoothness": -0.004671265481671204
+        }
+    },
+    "1205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean compactness",
+            "symmetry error",
+            "mean fractal dimension",
+            "compactness error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.19556876876503812,
+            0.12831638869629022,
+            0.08541238704744324,
+            -0.06990740400368158,
+            0.05880706704936307,
+            0.05330172904259204,
+            0.046201311129309426,
+            -0.030325943714708925,
+            0.015172669513922607,
+            -0.011281127939158378
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19556876876503812,
+            "mean radius": 0.12831638869629022,
+            "mean texture": 0.08541238704744324,
+            "fractal dimension error": -0.06990740400368158,
+            "mean symmetry": 0.05880706704936307,
+            "mean compactness": 0.05330172904259204,
+            "symmetry error": 0.046201311129309426,
+            "mean fractal dimension": -0.030325943714708925,
+            "compactness error": 0.015172669513922607,
+            "mean smoothness": -0.011281127939158378
+        }
+    },
+    "1305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "symmetry error",
+            "compactness error",
+            "smoothness error",
+            "mean symmetry"
+        ],
+        "weights": [
+            0.1698623662349277,
+            0.09842206166788199,
+            0.07357478942649685,
+            0.07007152882166791,
+            -0.06169959770347975,
+            0.036791511913179656,
+            0.03539716950555573,
+            -0.02582896363963126,
+            -0.015388092247699952,
+            -0.014789459662945913
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1698623662349277,
+            "mean radius": 0.09842206166788199,
+            "mean texture": 0.07357478942649685,
+            "mean compactness": 0.07007152882166791,
+            "fractal dimension error": -0.06169959770347975,
+            "mean smoothness": 0.036791511913179656,
+            "symmetry error": 0.03539716950555573,
+            "compactness error": -0.02582896363963126,
+            "smoothness error": -0.015388092247699952,
+            "mean symmetry": -0.014789459662945913
+        }
+    },
+    "1405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean symmetry",
+            "mean smoothness",
+            "mean compactness",
+            "compactness error",
+            "mean fractal dimension",
+            "texture error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.1871307955026282,
+            0.11505294805883572,
+            0.07591720290327558,
+            0.06499258756858388,
+            -0.05123354328642993,
+            0.03615048165864129,
+            0.03060284655019656,
+            0.02376949942353955,
+            -0.01613554163929325,
+            -0.010246086495520225
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1871307955026282,
+            "mean texture": 0.11505294805883572,
+            "mean radius": 0.07591720290327558,
+            "mean symmetry": 0.06499258756858388,
+            "mean smoothness": -0.05123354328642993,
+            "mean compactness": 0.03615048165864129,
+            "compactness error": 0.03060284655019656,
+            "mean fractal dimension": 0.02376949942353955,
+            "texture error": -0.01613554163929325,
+            "smoothness error": -0.010246086495520225
+        }
+    },
+    "1505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "compactness error",
+            "mean symmetry",
+            "texture error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.22173156808167238,
+            0.07633956091025167,
+            0.06409554741803122,
+            0.051318046480317785,
+            -0.043338342697666024,
+            -0.04311545162317906,
+            -0.034208537776068124,
+            0.03047360955955693,
+            0.027283089106874454,
+            0.019847195646169463
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22173156808167238,
+            "mean radius": 0.07633956091025167,
+            "mean texture": 0.06409554741803122,
+            "mean compactness": 0.051318046480317785,
+            "fractal dimension error": -0.043338342697666024,
+            "mean smoothness": -0.04311545162317906,
+            "compactness error": -0.034208537776068124,
+            "mean symmetry": 0.03047360955955693,
+            "texture error": 0.027283089106874454,
+            "symmetry error": 0.019847195646169463
+        }
+    },
+    "1605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "smoothness error",
+            "mean fractal dimension",
+            "mean smoothness",
+            "compactness error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.2092186007979093,
+            0.11477834192856999,
+            0.052129899303560004,
+            0.03502827508660261,
+            0.029996633739213612,
+            0.025245047666011208,
+            -0.018179546342057176,
+            0.013263592953928023,
+            0.011935567538148499,
+            0.01172294299753312
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2092186007979093,
+            "mean texture": 0.11477834192856999,
+            "mean radius": 0.052129899303560004,
+            "mean compactness": 0.03502827508660261,
+            "mean symmetry": 0.029996633739213612,
+            "smoothness error": 0.025245047666011208,
+            "mean fractal dimension": -0.018179546342057176,
+            "mean smoothness": 0.013263592953928023,
+            "compactness error": 0.011935567538148499,
+            "symmetry error": 0.01172294299753312
+        }
+    },
+    "1705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean fractal dimension",
+            "fractal dimension error",
+            "mean smoothness",
+            "mean symmetry",
+            "texture error",
+            "compactness error"
+        ],
+        "weights": [
+            0.20218021624928142,
+            0.10355196757289144,
+            0.0766361463412216,
+            0.059502531646968476,
+            0.04049699080074873,
+            -0.03363958017028729,
+            -0.029965585911163356,
+            0.021402053121034048,
+            -0.013191055915145267,
+            -0.011397371238479526
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20218021624928142,
+            "mean texture": 0.10355196757289144,
+            "mean radius": 0.0766361463412216,
+            "mean compactness": 0.059502531646968476,
+            "mean fractal dimension": 0.04049699080074873,
+            "fractal dimension error": -0.03363958017028729,
+            "mean smoothness": -0.029965585911163356,
+            "mean symmetry": 0.021402053121034048,
+            "texture error": -0.013191055915145267,
+            "compactness error": -0.011397371238479526
+        }
+    },
+    "1805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "texture error",
+            "mean smoothness",
+            "fractal dimension error",
+            "smoothness error",
+            "compactness error"
+        ],
+        "weights": [
+            0.18592751465675225,
+            0.09361733753017738,
+            0.07657663618595606,
+            0.07198134956263116,
+            0.06568579810317418,
+            -0.03689029445417327,
+            0.02237993075448112,
+            -0.008292456376966713,
+            0.006684855896867177,
+            -0.0013553932235089437
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18592751465675225,
+            "mean radius": 0.09361733753017738,
+            "mean texture": 0.07657663618595606,
+            "mean compactness": 0.07198134956263116,
+            "mean symmetry": 0.06568579810317418,
+            "texture error": -0.03689029445417327,
+            "mean smoothness": 0.02237993075448112,
+            "fractal dimension error": -0.008292456376966713,
+            "smoothness error": 0.006684855896867177,
+            "compactness error": -0.0013553932235089437
+        }
+    },
+    "1905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean smoothness",
+            "mean compactness",
+            "texture error",
+            "mean fractal dimension",
+            "mean symmetry",
+            "fractal dimension error",
+            "compactness error"
+        ],
+        "weights": [
+            0.2336913850125475,
+            0.09651154649791303,
+            0.08285845292629675,
+            -0.07510248194759564,
+            0.05804685774153048,
+            0.04982349054867979,
+            0.04152298653027238,
+            0.03755650071740751,
+            -0.025848400812072073,
+            0.015607281354920302
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2336913850125475,
+            "mean radius": 0.09651154649791303,
+            "mean texture": 0.08285845292629675,
+            "mean smoothness": -0.07510248194759564,
+            "mean compactness": 0.05804685774153048,
+            "texture error": 0.04982349054867979,
+            "mean fractal dimension": 0.04152298653027238,
+            "mean symmetry": 0.03755650071740751,
+            "fractal dimension error": -0.025848400812072073,
+            "compactness error": 0.015607281354920302
+        }
+    },
+    "2005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "mean texture",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "compactness error",
+            "texture error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.20686666927835015,
+            0.1146652700945883,
+            0.08900000396065644,
+            0.04244781449940596,
+            0.03702573687976083,
+            -0.03338302791079006,
+            0.03026594680684675,
+            0.02534546072256991,
+            -0.010218190354035593,
+            0.008362770014241456
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20686666927835015,
+            "mean radius": 0.1146652700945883,
+            "mean compactness": 0.08900000396065644,
+            "mean symmetry": 0.04244781449940596,
+            "mean texture": 0.03702573687976083,
+            "fractal dimension error": -0.03338302791079006,
+            "mean fractal dimension": 0.03026594680684675,
+            "compactness error": 0.02534546072256991,
+            "texture error": -0.010218190354035593,
+            "symmetry error": 0.008362770014241456
+        }
+    },
+    "2105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean symmetry",
+            "mean smoothness",
+            "mean compactness",
+            "compactness error",
+            "texture error",
+            "fractal dimension error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.20244710189524745,
+            0.12700876846915507,
+            0.0603327778098446,
+            0.05601480705223443,
+            -0.04560382159503449,
+            0.03614643743042238,
+            -0.018979697733122698,
+            0.012442982198774453,
+            -0.006826366245288631,
+            -0.0067813256496127485
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20244710189524745,
+            "mean radius": 0.12700876846915507,
+            "mean texture": 0.0603327778098446,
+            "mean symmetry": 0.05601480705223443,
+            "mean smoothness": -0.04560382159503449,
+            "mean compactness": 0.03614643743042238,
+            "compactness error": -0.018979697733122698,
+            "texture error": 0.012442982198774453,
+            "fractal dimension error": -0.006826366245288631,
+            "smoothness error": -0.0067813256496127485
+        }
+    },
+    "2205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean symmetry",
+            "texture error",
+            "fractal dimension error",
+            "mean compactness",
+            "mean smoothness",
+            "mean fractal dimension",
+            "smoothness error"
+        ],
+        "weights": [
+            0.19549100929588104,
+            0.10845057431595365,
+            0.09492164597557481,
+            0.07248014045293219,
+            0.044159235608476996,
+            -0.023899114428709522,
+            0.02204614466068304,
+            0.01127616754646594,
+            0.009428742854570384,
+            -0.009373294321882289
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19549100929588104,
+            "mean radius": 0.10845057431595365,
+            "mean texture": 0.09492164597557481,
+            "mean symmetry": 0.07248014045293219,
+            "texture error": 0.044159235608476996,
+            "fractal dimension error": -0.023899114428709522,
+            "mean compactness": 0.02204614466068304,
+            "mean smoothness": 0.01127616754646594,
+            "mean fractal dimension": 0.009428742854570384,
+            "smoothness error": -0.009373294321882289
+        }
+    },
+    "2305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean compactness",
+            "mean texture",
+            "smoothness error",
+            "texture error",
+            "fractal dimension error",
+            "mean smoothness",
+            "mean symmetry",
+            "compactness error"
+        ],
+        "weights": [
+            0.21387435275427305,
+            0.08839287475586362,
+            0.07676823717563606,
+            0.06978304494680247,
+            -0.0334317897605554,
+            0.02328548477768736,
+            -0.01845675862320877,
+            0.014834179906527235,
+            0.012645017181093034,
+            0.00988479160886263
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21387435275427305,
+            "mean radius": 0.08839287475586362,
+            "mean compactness": 0.07676823717563606,
+            "mean texture": 0.06978304494680247,
+            "smoothness error": -0.0334317897605554,
+            "texture error": 0.02328548477768736,
+            "fractal dimension error": -0.01845675862320877,
+            "mean smoothness": 0.014834179906527235,
+            "mean symmetry": 0.012645017181093034,
+            "compactness error": 0.00988479160886263
+        }
+    },
+    "2405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "compactness error",
+            "mean smoothness",
+            "texture error",
+            "fractal dimension error",
+            "symmetry error",
+            "mean symmetry"
+        ],
+        "weights": [
+            0.19260599346591092,
+            0.10625883068426806,
+            0.05280486312123451,
+            0.028500726302732024,
+            0.02115216893671852,
+            -0.02097635597793829,
+            -0.020072168001893848,
+            -0.016782042879448043,
+            0.010347573836879238,
+            -0.010042059274910585
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19260599346591092,
+            "mean radius": 0.10625883068426806,
+            "mean texture": 0.05280486312123451,
+            "mean compactness": 0.028500726302732024,
+            "compactness error": 0.02115216893671852,
+            "mean smoothness": -0.02097635597793829,
+            "texture error": -0.020072168001893848,
+            "fractal dimension error": -0.016782042879448043,
+            "symmetry error": 0.010347573836879238,
+            "mean symmetry": -0.010042059274910585
+        }
+    },
+    "2505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean compactness",
+            "mean radius",
+            "mean texture",
+            "compactness error",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean smoothness",
+            "symmetry error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.21787728486594352,
+            0.0905551743829219,
+            0.08488628166207997,
+            0.07236995604933802,
+            0.03631750514024462,
+            -0.03388537385399261,
+            0.022164024437818744,
+            -0.019251377023915266,
+            -0.014646338913734269,
+            0.00800297110113394
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21787728486594352,
+            "mean compactness": 0.0905551743829219,
+            "mean radius": 0.08488628166207997,
+            "mean texture": 0.07236995604933802,
+            "compactness error": 0.03631750514024462,
+            "fractal dimension error": -0.03388537385399261,
+            "mean symmetry": 0.022164024437818744,
+            "mean smoothness": -0.019251377023915266,
+            "symmetry error": -0.014646338913734269,
+            "mean fractal dimension": 0.00800297110113394
+        }
+    },
+    "2605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "smoothness error",
+            "mean smoothness",
+            "mean compactness",
+            "mean symmetry",
+            "compactness error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.18408556739627224,
+            0.12494496167844987,
+            0.06608388234649705,
+            -0.04926999682792398,
+            -0.03748539665156685,
+            -0.036444492266370185,
+            0.03154170606165075,
+            0.02505870407969537,
+            0.022659397380927603,
+            -0.007957001901080632
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18408556739627224,
+            "mean radius": 0.12494496167844987,
+            "mean texture": 0.06608388234649705,
+            "fractal dimension error": -0.04926999682792398,
+            "smoothness error": -0.03748539665156685,
+            "mean smoothness": -0.036444492266370185,
+            "mean compactness": 0.03154170606165075,
+            "mean symmetry": 0.02505870407969537,
+            "compactness error": 0.022659397380927603,
+            "mean fractal dimension": -0.007957001901080632
+        }
+    },
+    "2705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "smoothness error",
+            "mean symmetry",
+            "texture error",
+            "mean smoothness",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.163738619189755,
+            0.12045976033660685,
+            0.11214949514758044,
+            0.07515525828509384,
+            -0.04340826164531774,
+            -0.030045880781787826,
+            0.026054247063810407,
+            -0.01526446961845288,
+            -0.014386835866666534,
+            0.006485428794936523
+        ],
+        "feature_importance_map": {
+            "radius error": 0.163738619189755,
+            "mean radius": 0.12045976033660685,
+            "mean texture": 0.11214949514758044,
+            "mean compactness": 0.07515525828509384,
+            "fractal dimension error": -0.04340826164531774,
+            "smoothness error": -0.030045880781787826,
+            "mean symmetry": 0.026054247063810407,
+            "texture error": -0.01526446961845288,
+            "mean smoothness": -0.014386835866666534,
+            "mean fractal dimension": 0.006485428794936523
+        }
+    },
+    "2805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean compactness",
+            "mean radius",
+            "mean fractal dimension",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean smoothness",
+            "symmetry error",
+            "compactness error"
+        ],
+        "weights": [
+            0.22663915174758792,
+            0.09360070887195153,
+            0.06817143234238737,
+            0.06531635114830821,
+            0.03529370284020713,
+            0.035177404437077855,
+            -0.016901319644914942,
+            0.015385667778031534,
+            0.012660470701344987,
+            -0.011704241321257332
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22663915174758792,
+            "mean texture": 0.09360070887195153,
+            "mean compactness": 0.06817143234238737,
+            "mean radius": 0.06531635114830821,
+            "mean fractal dimension": 0.03529370284020713,
+            "mean symmetry": 0.035177404437077855,
+            "fractal dimension error": -0.016901319644914942,
+            "mean smoothness": 0.015385667778031534,
+            "symmetry error": 0.012660470701344987,
+            "compactness error": -0.011704241321257332
+        }
+    },
+    "2905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "symmetry error",
+            "mean smoothness",
+            "smoothness error",
+            "mean fractal dimension",
+            "texture error"
+        ],
+        "weights": [
+            0.18914859218488045,
+            0.12807094323130683,
+            0.07800642828963268,
+            0.06279248685980261,
+            -0.040506047676569505,
+            -0.02103086221804225,
+            -0.01760337080900154,
+            -0.016524411949433625,
+            0.015483705295930359,
+            0.010004161085227415
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18914859218488045,
+            "mean radius": 0.12807094323130683,
+            "mean texture": 0.07800642828963268,
+            "mean compactness": 0.06279248685980261,
+            "fractal dimension error": -0.040506047676569505,
+            "symmetry error": -0.02103086221804225,
+            "mean smoothness": -0.01760337080900154,
+            "smoothness error": -0.016524411949433625,
+            "mean fractal dimension": 0.015483705295930359,
+            "texture error": 0.010004161085227415
+        }
+    },
+    "3005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "symmetry error",
+            "mean compactness",
+            "texture error",
+            "compactness error",
+            "mean fractal dimension",
+            "smoothness error"
+        ],
+        "weights": [
+            0.2104514966824743,
+            0.08965276228940706,
+            0.06174661083733214,
+            -0.05804897498089037,
+            -0.04958766075005337,
+            0.04161047094219553,
+            0.027191775043272734,
+            0.013806403567868107,
+            0.01180159758088651,
+            -0.010065433577379991
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2104514966824743,
+            "mean radius": 0.08965276228940706,
+            "mean texture": 0.06174661083733214,
+            "fractal dimension error": -0.05804897498089037,
+            "symmetry error": -0.04958766075005337,
+            "mean compactness": 0.04161047094219553,
+            "texture error": 0.027191775043272734,
+            "compactness error": 0.013806403567868107,
+            "mean fractal dimension": 0.01180159758088651,
+            "smoothness error": -0.010065433577379991
+        }
+    },
+    "3105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "symmetry error",
+            "fractal dimension error",
+            "smoothness error",
+            "compactness error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.17827160237458117,
+            0.09879256347211238,
+            0.07344047615399406,
+            0.06095682913046198,
+            0.04156622358728384,
+            0.035726631995887784,
+            -0.029768332435296457,
+            -0.024023031105437888,
+            0.021972719140637594,
+            0.019167881005567978
+        ],
+        "feature_importance_map": {
+            "radius error": 0.17827160237458117,
+            "mean texture": 0.09879256347211238,
+            "mean radius": 0.07344047615399406,
+            "mean compactness": 0.06095682913046198,
+            "mean symmetry": 0.04156622358728384,
+            "symmetry error": 0.035726631995887784,
+            "fractal dimension error": -0.029768332435296457,
+            "smoothness error": -0.024023031105437888,
+            "compactness error": 0.021972719140637594,
+            "mean smoothness": 0.019167881005567978
+        }
+    },
+    "3205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "fractal dimension error",
+            "compactness error",
+            "symmetry error",
+            "mean compactness",
+            "smoothness error",
+            "mean smoothness",
+            "texture error"
+        ],
+        "weights": [
+            0.20245994154646277,
+            0.1200749455800435,
+            0.08246557116557458,
+            -0.04416098404661192,
+            0.03380581232065463,
+            0.026421217852539442,
+            0.020671178628133696,
+            -0.020534975514783546,
+            -0.017324033038059395,
+            0.013905407232936514
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20245994154646277,
+            "mean texture": 0.1200749455800435,
+            "mean radius": 0.08246557116557458,
+            "fractal dimension error": -0.04416098404661192,
+            "compactness error": 0.03380581232065463,
+            "symmetry error": 0.026421217852539442,
+            "mean compactness": 0.020671178628133696,
+            "smoothness error": -0.020534975514783546,
+            "mean smoothness": -0.017324033038059395,
+            "texture error": 0.013905407232936514
+        }
+    },
+    "3305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "compactness error",
+            "mean fractal dimension",
+            "symmetry error",
+            "fractal dimension error",
+            "texture error"
+        ],
+        "weights": [
+            0.20512438343781378,
+            0.09847738894944784,
+            0.07476757673481896,
+            0.0693538137715613,
+            0.04227441266132955,
+            0.040508194717945985,
+            0.03334503253921115,
+            0.031127435617896295,
+            -0.018981034129676118,
+            0.015590020180215153
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20512438343781378,
+            "mean radius": 0.09847738894944784,
+            "mean texture": 0.07476757673481896,
+            "mean compactness": 0.0693538137715613,
+            "mean symmetry": 0.04227441266132955,
+            "compactness error": 0.040508194717945985,
+            "mean fractal dimension": 0.03334503253921115,
+            "symmetry error": 0.031127435617896295,
+            "fractal dimension error": -0.018981034129676118,
+            "texture error": 0.015590020180215153
+        }
+    },
+    "3405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean compactness",
+            "mean fractal dimension",
+            "mean smoothness",
+            "compactness error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.19356786874830037,
+            0.07777538546674366,
+            0.06460119809398888,
+            -0.038985819723115184,
+            0.03790146554680468,
+            0.03409954354620705,
+            0.027773201883390743,
+            -0.021124170793340304,
+            0.016383288570861944,
+            0.014510646318889034
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19356786874830037,
+            "mean texture": 0.07777538546674366,
+            "mean radius": 0.06460119809398888,
+            "fractal dimension error": -0.038985819723115184,
+            "mean symmetry": 0.03790146554680468,
+            "mean compactness": 0.03409954354620705,
+            "mean fractal dimension": 0.027773201883390743,
+            "mean smoothness": -0.021124170793340304,
+            "compactness error": 0.016383288570861944,
+            "symmetry error": 0.014510646318889034
+        }
+    },
+    "3505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "symmetry error",
+            "fractal dimension error",
+            "mean symmetry",
+            "compactness error",
+            "mean fractal dimension",
+            "texture error"
+        ],
+        "weights": [
+            0.21565111121145983,
+            0.10260911940213605,
+            0.08041732473186124,
+            0.06577955660353581,
+            0.029029636605360055,
+            -0.026725992964813646,
+            0.023495272215119916,
+            -0.022795134159336178,
+            0.013099791291028867,
+            0.012193016176125107
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21565111121145983,
+            "mean texture": 0.10260911940213605,
+            "mean radius": 0.08041732473186124,
+            "mean compactness": 0.06577955660353581,
+            "symmetry error": 0.029029636605360055,
+            "fractal dimension error": -0.026725992964813646,
+            "mean symmetry": 0.023495272215119916,
+            "compactness error": -0.022795134159336178,
+            "mean fractal dimension": 0.013099791291028867,
+            "texture error": 0.012193016176125107
+        }
+    },
+    "3605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "mean symmetry",
+            "compactness error",
+            "mean smoothness",
+            "smoothness error"
+        ],
+        "weights": [
+            0.20805712045067093,
+            0.08987741094734543,
+            0.08526241017405245,
+            0.06322368497048834,
+            -0.042527194916863416,
+            0.025120751546092057,
+            0.019873310891631593,
+            0.009839208447994902,
+            -0.00785836519807732,
+            -0.005900578524057918
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20805712045067093,
+            "mean radius": 0.08987741094734543,
+            "mean texture": 0.08526241017405245,
+            "mean compactness": 0.06322368497048834,
+            "fractal dimension error": -0.042527194916863416,
+            "mean fractal dimension": 0.025120751546092057,
+            "mean symmetry": 0.019873310891631593,
+            "compactness error": 0.009839208447994902,
+            "mean smoothness": -0.00785836519807732,
+            "smoothness error": -0.005900578524057918
+        }
+    },
+    "3705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean fractal dimension",
+            "fractal dimension error",
+            "smoothness error",
+            "symmetry error",
+            "mean symmetry",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.2251655417599142,
+            0.0959367867926851,
+            0.07438691050123714,
+            0.05612289520219116,
+            -0.034452085777785794,
+            -0.013992006563323313,
+            0.01236716027943527,
+            0.007252015125795207,
+            -0.007148040735348062,
+            -0.00687428629087745
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2251655417599142,
+            "mean texture": 0.0959367867926851,
+            "mean radius": 0.07438691050123714,
+            "mean compactness": 0.05612289520219116,
+            "mean fractal dimension": -0.034452085777785794,
+            "fractal dimension error": -0.013992006563323313,
+            "smoothness error": 0.01236716027943527,
+            "symmetry error": 0.007252015125795207,
+            "mean symmetry": -0.007148040735348062,
+            "mean smoothness": -0.00687428629087745
+        }
+    },
+    "3805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean compactness",
+            "mean texture",
+            "fractal dimension error",
+            "mean symmetry",
+            "symmetry error",
+            "compactness error",
+            "texture error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.2209263874845136,
+            0.09970023956274168,
+            0.061295273526783475,
+            0.05503080968735453,
+            -0.041676614952496784,
+            0.028098489279619405,
+            0.024178048089582915,
+            0.02107503955372516,
+            0.021045559332211857,
+            0.014598513267243329
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2209263874845136,
+            "mean radius": 0.09970023956274168,
+            "mean compactness": 0.061295273526783475,
+            "mean texture": 0.05503080968735453,
+            "fractal dimension error": -0.041676614952496784,
+            "mean symmetry": 0.028098489279619405,
+            "symmetry error": 0.024178048089582915,
+            "compactness error": 0.02107503955372516,
+            "texture error": 0.021045559332211857,
+            "mean fractal dimension": 0.014598513267243329
+        }
+    },
+    "3905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "mean compactness",
+            "symmetry error",
+            "mean symmetry",
+            "mean fractal dimension",
+            "mean smoothness",
+            "compactness error"
+        ],
+        "weights": [
+            0.2213802399361555,
+            0.10562764494286306,
+            0.05697168090381746,
+            -0.05361692069482588,
+            0.040808607968784494,
+            0.029931291654715253,
+            0.025119940848763,
+            0.01746178575993359,
+            0.015635231486074017,
+            0.013778876189722672
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2213802399361555,
+            "mean radius": 0.10562764494286306,
+            "mean texture": 0.05697168090381746,
+            "fractal dimension error": -0.05361692069482588,
+            "mean compactness": 0.040808607968784494,
+            "symmetry error": 0.029931291654715253,
+            "mean symmetry": 0.025119940848763,
+            "mean fractal dimension": 0.01746178575993359,
+            "mean smoothness": 0.015635231486074017,
+            "compactness error": 0.013778876189722672
+        }
+    },
+    "4005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "symmetry error",
+            "fractal dimension error",
+            "compactness error",
+            "mean smoothness",
+            "mean symmetry",
+            "texture error"
+        ],
+        "weights": [
+            0.21223967767159893,
+            0.09945439493266996,
+            0.07513102992794773,
+            0.053519246844920876,
+            -0.036197690830737525,
+            -0.022635863266238714,
+            0.020710558276700243,
+            -0.019423579406112584,
+            0.00976871055691475,
+            -0.006450879266467602
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21223967767159893,
+            "mean texture": 0.09945439493266996,
+            "mean radius": 0.07513102992794773,
+            "mean compactness": 0.053519246844920876,
+            "symmetry error": -0.036197690830737525,
+            "fractal dimension error": -0.022635863266238714,
+            "compactness error": 0.020710558276700243,
+            "mean smoothness": -0.019423579406112584,
+            "mean symmetry": 0.00976871055691475,
+            "texture error": -0.006450879266467602
+        }
+    },
+    "4105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean fractal dimension",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean smoothness",
+            "smoothness error",
+            "compactness error"
+        ],
+        "weights": [
+            0.21043906708224677,
+            0.09548822864293106,
+            0.07347937160358659,
+            0.07014256930812135,
+            0.03773011160602382,
+            0.035205299250577006,
+            -0.03405715061644428,
+            -0.020506034315964046,
+            -0.010656462035227738,
+            -0.00792620383287763
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21043906708224677,
+            "mean texture": 0.09548822864293106,
+            "mean radius": 0.07347937160358659,
+            "mean compactness": 0.07014256930812135,
+            "mean fractal dimension": 0.03773011160602382,
+            "mean symmetry": 0.035205299250577006,
+            "fractal dimension error": -0.03405715061644428,
+            "mean smoothness": -0.020506034315964046,
+            "smoothness error": -0.010656462035227738,
+            "compactness error": -0.00792620383287763
+        }
+    },
+    "4205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "compactness error",
+            "mean smoothness",
+            "symmetry error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.20725846956320348,
+            0.11439078986559216,
+            0.0935972130647825,
+            0.05875709185165721,
+            0.04446361219172159,
+            -0.02234091180073909,
+            0.016649102767986933,
+            0.014626626988720907,
+            -0.011582250074958243,
+            0.00990709462951497
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20725846956320348,
+            "mean texture": 0.11439078986559216,
+            "mean radius": 0.0935972130647825,
+            "mean compactness": 0.05875709185165721,
+            "mean symmetry": 0.04446361219172159,
+            "fractal dimension error": -0.02234091180073909,
+            "compactness error": 0.016649102767986933,
+            "mean smoothness": 0.014626626988720907,
+            "symmetry error": -0.011582250074958243,
+            "smoothness error": 0.00990709462951497
+        }
+    },
+    "4305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean compactness",
+            "mean texture",
+            "mean smoothness",
+            "mean symmetry",
+            "mean fractal dimension",
+            "symmetry error",
+            "texture error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.1985945918400335,
+            0.09398533758510344,
+            0.08948050367612916,
+            0.07901781632717005,
+            -0.039278331062129496,
+            0.02597649577129894,
+            0.02558116863969871,
+            -0.01780018866718577,
+            -0.010582550195438438,
+            0.010408819088206936
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1985945918400335,
+            "mean radius": 0.09398533758510344,
+            "mean compactness": 0.08948050367612916,
+            "mean texture": 0.07901781632717005,
+            "mean smoothness": -0.039278331062129496,
+            "mean symmetry": 0.02597649577129894,
+            "mean fractal dimension": 0.02558116863969871,
+            "symmetry error": -0.01780018866718577,
+            "texture error": -0.010582550195438438,
+            "smoothness error": 0.010408819088206936
+        }
+    },
+    "4405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "texture error",
+            "mean symmetry",
+            "smoothness error",
+            "mean smoothness",
+            "mean fractal dimension",
+            "fractal dimension error"
+        ],
+        "weights": [
+            0.21794621736680966,
+            0.0941456888668649,
+            0.07614361484391535,
+            0.06878480383572098,
+            0.03449246173895316,
+            0.018476837019207094,
+            -0.01740593730971183,
+            0.017225098058603793,
+            0.013228064139551942,
+            -0.0036460692453466168
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21794621736680966,
+            "mean radius": 0.0941456888668649,
+            "mean texture": 0.07614361484391535,
+            "mean compactness": 0.06878480383572098,
+            "texture error": 0.03449246173895316,
+            "mean symmetry": 0.018476837019207094,
+            "smoothness error": -0.01740593730971183,
+            "mean smoothness": 0.017225098058603793,
+            "mean fractal dimension": 0.013228064139551942,
+            "fractal dimension error": -0.0036460692453466168
+        }
+    },
+    "4505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean compactness",
+            "mean radius",
+            "mean symmetry",
+            "mean smoothness",
+            "symmetry error",
+            "smoothness error",
+            "fractal dimension error",
+            "texture error"
+        ],
+        "weights": [
+            0.1829832498204317,
+            0.08504693805719328,
+            0.07558980285207162,
+            0.06412871355916842,
+            0.045624805028337476,
+            -0.03220625032756265,
+            0.030393732339472953,
+            -0.021479751412567524,
+            -0.019445551817400705,
+            -0.00629239143775857
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1829832498204317,
+            "mean texture": 0.08504693805719328,
+            "mean compactness": 0.07558980285207162,
+            "mean radius": 0.06412871355916842,
+            "mean symmetry": 0.045624805028337476,
+            "mean smoothness": -0.03220625032756265,
+            "symmetry error": 0.030393732339472953,
+            "smoothness error": -0.021479751412567524,
+            "fractal dimension error": -0.019445551817400705,
+            "texture error": -0.00629239143775857
+        }
+    },
+    "4605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "symmetry error",
+            "texture error",
+            "compactness error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.21469647781104945,
+            0.09158740722937254,
+            0.07689797649878165,
+            0.06917211539388704,
+            -0.031066077080919827,
+            0.028773795073071526,
+            0.02033866614042311,
+            0.01723479117893765,
+            -0.01255342109717721,
+            0.012276870202639876
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21469647781104945,
+            "mean radius": 0.09158740722937254,
+            "mean texture": 0.07689797649878165,
+            "mean compactness": 0.06917211539388704,
+            "fractal dimension error": -0.031066077080919827,
+            "mean symmetry": 0.028773795073071526,
+            "symmetry error": 0.02033866614042311,
+            "texture error": 0.01723479117893765,
+            "compactness error": -0.01255342109717721,
+            "smoothness error": 0.012276870202639876
+        }
+    },
+    "4705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean smoothness",
+            "fractal dimension error",
+            "mean symmetry",
+            "compactness error",
+            "smoothness error",
+            "texture error"
+        ],
+        "weights": [
+            0.21974713325069492,
+            0.09907072909455876,
+            0.09070292152306267,
+            0.05806151966773648,
+            -0.043234237974912826,
+            -0.03239447845305513,
+            0.025823138884505673,
+            0.017441251325871033,
+            0.009448419534730497,
+            -0.00340836295641962
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21974713325069492,
+            "mean radius": 0.09907072909455876,
+            "mean texture": 0.09070292152306267,
+            "mean compactness": 0.05806151966773648,
+            "mean smoothness": -0.043234237974912826,
+            "fractal dimension error": -0.03239447845305513,
+            "mean symmetry": 0.025823138884505673,
+            "compactness error": 0.017441251325871033,
+            "smoothness error": 0.009448419534730497,
+            "texture error": -0.00340836295641962
+        }
+    },
+    "4805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean compactness",
+            "mean texture",
+            "texture error",
+            "mean symmetry",
+            "mean fractal dimension",
+            "fractal dimension error",
+            "mean smoothness",
+            "smoothness error"
+        ],
+        "weights": [
+            0.18998580998147757,
+            0.10093117025297416,
+            0.0996046176086732,
+            0.08109986885619776,
+            0.030129514440249253,
+            0.028974907262919077,
+            0.025459212049843218,
+            -0.024804860610260313,
+            -0.022196222915180575,
+            0.006291457417967528
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18998580998147757,
+            "mean radius": 0.10093117025297416,
+            "mean compactness": 0.0996046176086732,
+            "mean texture": 0.08109986885619776,
+            "texture error": 0.030129514440249253,
+            "mean symmetry": 0.028974907262919077,
+            "mean fractal dimension": 0.025459212049843218,
+            "fractal dimension error": -0.024804860610260313,
+            "mean smoothness": -0.022196222915180575,
+            "smoothness error": 0.006291457417967528
+        }
+    },
+    "4905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "smoothness error",
+            "mean smoothness",
+            "fractal dimension error",
+            "texture error",
+            "compactness error"
+        ],
+        "weights": [
+            0.21035764101611032,
+            0.07139716090399276,
+            0.06188907584420761,
+            0.061439200716314625,
+            0.02659255793813151,
+            -0.026500086095957325,
+            -0.024385203237175995,
+            -0.017440446878507827,
+            -0.015808150842514614,
+            0.01116458253310576
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21035764101611032,
+            "mean texture": 0.07139716090399276,
+            "mean radius": 0.06188907584420761,
+            "mean compactness": 0.061439200716314625,
+            "mean symmetry": 0.02659255793813151,
+            "smoothness error": -0.026500086095957325,
+            "mean smoothness": -0.024385203237175995,
+            "fractal dimension error": -0.017440446878507827,
+            "texture error": -0.015808150842514614,
+            "compactness error": 0.01116458253310576
+        }
+    },
+    "5005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "mean fractal dimension",
+            "fractal dimension error",
+            "smoothness error",
+            "symmetry error",
+            "texture error"
+        ],
+        "weights": [
+            0.1729667853528212,
+            0.08349955197064621,
+            0.08235101878980604,
+            0.07586774913377903,
+            0.03455023638117243,
+            0.03365666095308632,
+            -0.025781888501687347,
+            -0.02045304203102673,
+            0.01830044755374935,
+            -0.008858742151218953
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1729667853528212,
+            "mean texture": 0.08349955197064621,
+            "mean radius": 0.08235101878980604,
+            "mean compactness": 0.07586774913377903,
+            "mean symmetry": 0.03455023638117243,
+            "mean fractal dimension": 0.03365666095308632,
+            "fractal dimension error": -0.025781888501687347,
+            "smoothness error": -0.02045304203102673,
+            "symmetry error": 0.01830044755374935,
+            "texture error": -0.008858742151218953
+        }
+    },
+    "5105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "symmetry error",
+            "mean fractal dimension",
+            "compactness error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.2151380216460474,
+            0.10710413424313509,
+            0.07122127166807381,
+            0.05951424514131786,
+            -0.0316391457578926,
+            0.028938359119480034,
+            0.019518324529108608,
+            0.013912844328922501,
+            0.010964831345998216,
+            -0.0104972759559329
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2151380216460474,
+            "mean texture": 0.10710413424313509,
+            "mean radius": 0.07122127166807381,
+            "mean compactness": 0.05951424514131786,
+            "fractal dimension error": -0.0316391457578926,
+            "mean symmetry": 0.028938359119480034,
+            "symmetry error": 0.019518324529108608,
+            "mean fractal dimension": 0.013912844328922501,
+            "compactness error": 0.010964831345998216,
+            "mean smoothness": -0.0104972759559329
+        }
+    },
+    "5205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "compactness error",
+            "texture error",
+            "mean smoothness",
+            "fractal dimension error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.18827619423845418,
+            0.08768788221030364,
+            0.07866312606440068,
+            0.050686519002215234,
+            0.03105391789299194,
+            0.019120346765800374,
+            -0.010976804200290678,
+            -0.01024897499376176,
+            0.008656701182255392,
+            0.008551437565281964
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18827619423845418,
+            "mean radius": 0.08768788221030364,
+            "mean texture": 0.07866312606440068,
+            "mean compactness": 0.050686519002215234,
+            "mean symmetry": 0.03105391789299194,
+            "compactness error": 0.019120346765800374,
+            "texture error": -0.010976804200290678,
+            "mean smoothness": -0.01024897499376176,
+            "fractal dimension error": 0.008656701182255392,
+            "symmetry error": 0.008551437565281964
+        }
+    },
+    "5305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean symmetry",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "texture error",
+            "mean fractal dimension",
+            "symmetry error"
+        ],
+        "weights": [
+            0.20993681405323655,
+            0.0865517500939656,
+            0.07545918695845888,
+            0.06072348232671301,
+            0.05950757889797855,
+            -0.03890206647757955,
+            -0.028840319304491706,
+            0.023724395085442215,
+            0.019083536135242166,
+            0.00611097605812191
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20993681405323655,
+            "mean texture": 0.0865517500939656,
+            "mean radius": 0.07545918695845888,
+            "mean symmetry": 0.06072348232671301,
+            "mean compactness": 0.05950757889797855,
+            "fractal dimension error": -0.03890206647757955,
+            "mean smoothness": -0.028840319304491706,
+            "texture error": 0.023724395085442215,
+            "mean fractal dimension": 0.019083536135242166,
+            "symmetry error": 0.00611097605812191
+        }
+    },
+    "5405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean smoothness",
+            "mean symmetry",
+            "fractal dimension error",
+            "compactness error",
+            "mean fractal dimension",
+            "texture error"
+        ],
+        "weights": [
+            0.20572405477276468,
+            0.09285199595871255,
+            0.08667964137416774,
+            0.06800936975549515,
+            -0.03826058943874774,
+            0.03393725753736086,
+            -0.02036384764995275,
+            0.014718485516412413,
+            -0.013993358462519378,
+            0.010714196557201183
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20572405477276468,
+            "mean radius": 0.09285199595871255,
+            "mean texture": 0.08667964137416774,
+            "mean compactness": 0.06800936975549515,
+            "mean smoothness": -0.03826058943874774,
+            "mean symmetry": 0.03393725753736086,
+            "fractal dimension error": -0.02036384764995275,
+            "compactness error": 0.014718485516412413,
+            "mean fractal dimension": -0.013993358462519378,
+            "texture error": 0.010714196557201183
+        }
+    },
+    "5505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean symmetry",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "smoothness error",
+            "mean fractal dimension",
+            "symmetry error"
+        ],
+        "weights": [
+            0.19755904500371063,
+            0.09597700545826858,
+            0.07103694096075945,
+            0.04758432074988393,
+            0.047523596351840454,
+            -0.015402869551457133,
+            0.012305468779935554,
+            -0.006994842700576764,
+            0.00641172951470284,
+            0.005401578894620263
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19755904500371063,
+            "mean radius": 0.09597700545826858,
+            "mean texture": 0.07103694096075945,
+            "mean symmetry": 0.04758432074988393,
+            "mean compactness": 0.047523596351840454,
+            "fractal dimension error": -0.015402869551457133,
+            "mean smoothness": 0.012305468779935554,
+            "smoothness error": -0.006994842700576764,
+            "mean fractal dimension": 0.00641172951470284,
+            "symmetry error": 0.005401578894620263
+        }
+    },
+    "5605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "mean fractal dimension",
+            "mean smoothness",
+            "texture error",
+            "compactness error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.19832290571005737,
+            0.09422925613028457,
+            0.08087934932106708,
+            0.044176246404566924,
+            0.04061043588543564,
+            0.03159944227473818,
+            -0.025811615049913236,
+            -0.015863034191966,
+            -0.00945429572236389,
+            -0.008669002772597665
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19832290571005737,
+            "mean radius": 0.09422925613028457,
+            "mean texture": 0.08087934932106708,
+            "mean compactness": 0.044176246404566924,
+            "mean symmetry": 0.04061043588543564,
+            "mean fractal dimension": 0.03159944227473818,
+            "mean smoothness": -0.025811615049913236,
+            "texture error": -0.015863034191966,
+            "compactness error": -0.00945429572236389,
+            "smoothness error": -0.008669002772597665
+        }
+    },
+    "5705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "smoothness error",
+            "mean symmetry",
+            "mean smoothness",
+            "fractal dimension error",
+            "compactness error",
+            "texture error"
+        ],
+        "weights": [
+            0.19590958318916474,
+            0.09476943333211559,
+            0.08237638418794371,
+            0.06287847746029142,
+            -0.02905191789517581,
+            0.024950857824521593,
+            -0.02017145835321237,
+            -0.01978337556087982,
+            -0.015734275058886,
+            0.005546845435139853
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19590958318916474,
+            "mean radius": 0.09476943333211559,
+            "mean texture": 0.08237638418794371,
+            "mean compactness": 0.06287847746029142,
+            "smoothness error": -0.02905191789517581,
+            "mean symmetry": 0.024950857824521593,
+            "mean smoothness": -0.02017145835321237,
+            "fractal dimension error": -0.01978337556087982,
+            "compactness error": -0.015734275058886,
+            "texture error": 0.005546845435139853
+        }
+    },
+    "5805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean smoothness",
+            "smoothness error",
+            "compactness error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.18678530794969653,
+            0.10354479518841797,
+            0.07472308781985913,
+            0.04200444606833097,
+            -0.039340955935028774,
+            0.03454037366928256,
+            -0.03041615528675531,
+            -0.027081146211345854,
+            -0.004361826771011488,
+            0.0031589318634945994
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18678530794969653,
+            "mean texture": 0.10354479518841797,
+            "mean radius": 0.07472308781985913,
+            "mean compactness": 0.04200444606833097,
+            "fractal dimension error": -0.039340955935028774,
+            "mean symmetry": 0.03454037366928256,
+            "mean smoothness": -0.03041615528675531,
+            "smoothness error": -0.027081146211345854,
+            "compactness error": -0.004361826771011488,
+            "mean fractal dimension": 0.0031589318634945994
+        }
+    },
+    "5905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "mean smoothness",
+            "fractal dimension error",
+            "texture error",
+            "smoothness error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.20267722659910073,
+            0.07285983014054248,
+            0.06603545192615097,
+            0.05128541970969237,
+            0.037354146575628466,
+            -0.036215582247146244,
+            -0.027703849575105605,
+            0.02642666837069407,
+            0.012050315369549106,
+            -0.007683692568170121
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20267722659910073,
+            "mean texture": 0.07285983014054248,
+            "mean radius": 0.06603545192615097,
+            "mean compactness": 0.05128541970969237,
+            "mean symmetry": 0.037354146575628466,
+            "mean smoothness": -0.036215582247146244,
+            "fractal dimension error": -0.027703849575105605,
+            "texture error": 0.02642666837069407,
+            "smoothness error": 0.012050315369549106,
+            "mean fractal dimension": -0.007683692568170121
+        }
+    },
+    "6005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean compactness",
+            "mean texture",
+            "mean radius",
+            "mean symmetry",
+            "mean smoothness",
+            "compactness error",
+            "mean fractal dimension",
+            "smoothness error",
+            "texture error"
+        ],
+        "weights": [
+            0.1911891586318743,
+            0.06468563406360466,
+            0.06144448999966253,
+            0.05913650238345984,
+            0.04750380446912913,
+            -0.036136381454452374,
+            0.0261308092223232,
+            0.025887441113355357,
+            -0.024958578832149154,
+            -0.015468055388128465
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1911891586318743,
+            "mean compactness": 0.06468563406360466,
+            "mean texture": 0.06144448999966253,
+            "mean radius": 0.05913650238345984,
+            "mean symmetry": 0.04750380446912913,
+            "mean smoothness": -0.036136381454452374,
+            "compactness error": 0.0261308092223232,
+            "mean fractal dimension": 0.025887441113355357,
+            "smoothness error": -0.024958578832149154,
+            "texture error": -0.015468055388128465
+        }
+    },
+    "6105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "symmetry error",
+            "mean fractal dimension",
+            "mean smoothness",
+            "fractal dimension error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.1878736789874299,
+            0.08306782227618842,
+            0.08200673860425416,
+            0.05838572787905203,
+            0.03306539094690332,
+            0.0250730950480556,
+            0.023169061672959054,
+            -0.018261133921432023,
+            -0.017719046126547403,
+            0.013462088371685268
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1878736789874299,
+            "mean radius": 0.08306782227618842,
+            "mean texture": 0.08200673860425416,
+            "mean compactness": 0.05838572787905203,
+            "mean symmetry": 0.03306539094690332,
+            "symmetry error": 0.0250730950480556,
+            "mean fractal dimension": 0.023169061672959054,
+            "mean smoothness": -0.018261133921432023,
+            "fractal dimension error": -0.017719046126547403,
+            "smoothness error": 0.013462088371685268
+        }
+    },
+    "6205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean fractal dimension",
+            "symmetry error",
+            "fractal dimension error",
+            "smoothness error",
+            "mean smoothness",
+            "mean symmetry"
+        ],
+        "weights": [
+            0.1879728370132071,
+            0.0894375364187408,
+            0.08629664991673726,
+            0.07338678102849908,
+            0.03209954649498749,
+            0.021291441651094995,
+            -0.020194018357150588,
+            -0.015516021074668063,
+            -0.005492437716136118,
+            -0.003158638061417084
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1879728370132071,
+            "mean texture": 0.0894375364187408,
+            "mean radius": 0.08629664991673726,
+            "mean compactness": 0.07338678102849908,
+            "mean fractal dimension": 0.03209954649498749,
+            "symmetry error": 0.021291441651094995,
+            "fractal dimension error": -0.020194018357150588,
+            "smoothness error": -0.015516021074668063,
+            "mean smoothness": -0.005492437716136118,
+            "mean symmetry": -0.003158638061417084
+        }
+    },
+    "6305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean smoothness",
+            "fractal dimension error",
+            "mean symmetry",
+            "compactness error",
+            "texture error",
+            "mean fractal dimension"
+        ],
+        "weights": [
+            0.2127209154285806,
+            0.09011774669984073,
+            0.08185231149980268,
+            0.0363473320302043,
+            -0.03256806145532461,
+            -0.031270897055678294,
+            0.03020080059288321,
+            0.019084005429342674,
+            -0.013582289800527308,
+            -0.01245962745512671
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2127209154285806,
+            "mean radius": 0.09011774669984073,
+            "mean texture": 0.08185231149980268,
+            "mean compactness": 0.0363473320302043,
+            "mean smoothness": -0.03256806145532461,
+            "fractal dimension error": -0.031270897055678294,
+            "mean symmetry": 0.03020080059288321,
+            "compactness error": 0.019084005429342674,
+            "texture error": -0.013582289800527308,
+            "mean fractal dimension": -0.01245962745512671
+        }
+    },
+    "6405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "texture error",
+            "mean smoothness",
+            "compactness error"
+        ],
+        "weights": [
+            0.17474137450571411,
+            0.08381704838139084,
+            0.08182999069767512,
+            0.0568717929165187,
+            0.04990274462587072,
+            -0.028131626404479193,
+            0.016218141758836364,
+            0.01376503116298638,
+            0.007362244131878525,
+            -0.006867328579133387
+        ],
+        "feature_importance_map": {
+            "radius error": 0.17474137450571411,
+            "mean texture": 0.08381704838139084,
+            "mean radius": 0.08182999069767512,
+            "mean compactness": 0.0568717929165187,
+            "mean symmetry": 0.04990274462587072,
+            "fractal dimension error": -0.028131626404479193,
+            "mean fractal dimension": 0.016218141758836364,
+            "texture error": 0.01376503116298638,
+            "mean smoothness": 0.007362244131878525,
+            "compactness error": -0.006867328579133387
+        }
+    },
+    "6505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "compactness error",
+            "symmetry error",
+            "smoothness error",
+            "texture error"
+        ],
+        "weights": [
+            0.19197689692018322,
+            0.08519510038880142,
+            0.06998271876235179,
+            0.06806546470029466,
+            0.045531308784536026,
+            -0.03845478941181054,
+            0.015600153700590381,
+            0.014026964128875167,
+            0.013422353159826489,
+            0.0027774561317790037
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19197689692018322,
+            "mean radius": 0.08519510038880142,
+            "mean texture": 0.06998271876235179,
+            "mean compactness": 0.06806546470029466,
+            "mean symmetry": 0.045531308784536026,
+            "fractal dimension error": -0.03845478941181054,
+            "compactness error": 0.015600153700590381,
+            "symmetry error": 0.014026964128875167,
+            "smoothness error": 0.013422353159826489,
+            "texture error": 0.0027774561317790037
+        }
+    },
+    "6605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean smoothness",
+            "texture error",
+            "mean symmetry",
+            "fractal dimension error",
+            "symmetry error",
+            "compactness error"
+        ],
+        "weights": [
+            0.20838998374384854,
+            0.10564415874427549,
+            0.09017982302923076,
+            0.05327516185237619,
+            -0.022576477006516427,
+            -0.020915664166843546,
+            0.019217434061397087,
+            -0.01571049254262308,
+            0.006049510060913098,
+            0.005334013014152852
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20838998374384854,
+            "mean radius": 0.10564415874427549,
+            "mean texture": 0.09017982302923076,
+            "mean compactness": 0.05327516185237619,
+            "mean smoothness": -0.022576477006516427,
+            "texture error": -0.020915664166843546,
+            "mean symmetry": 0.019217434061397087,
+            "fractal dimension error": -0.01571049254262308,
+            "symmetry error": 0.006049510060913098,
+            "compactness error": 0.005334013014152852
+        }
+    },
+    "6705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "smoothness error",
+            "texture error",
+            "mean fractal dimension",
+            "mean symmetry",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.22762033697141776,
+            0.1167315833096386,
+            0.06842193464666145,
+            0.05051563858016202,
+            -0.03735999534682276,
+            -0.032761300026424835,
+            0.019424771301375335,
+            0.018466753000091037,
+            0.018401566030794562,
+            -0.012266187922209848
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22762033697141776,
+            "mean texture": 0.1167315833096386,
+            "mean radius": 0.06842193464666145,
+            "mean compactness": 0.05051563858016202,
+            "fractal dimension error": -0.03735999534682276,
+            "smoothness error": -0.032761300026424835,
+            "texture error": 0.019424771301375335,
+            "mean fractal dimension": 0.018466753000091037,
+            "mean symmetry": 0.018401566030794562,
+            "mean smoothness": -0.012266187922209848
+        }
+    },
+    "6805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "symmetry error",
+            "mean smoothness",
+            "mean fractal dimension",
+            "smoothness error"
+        ],
+        "weights": [
+            0.17795509099821155,
+            0.09778025478681973,
+            0.08732059550928402,
+            0.061036295558640145,
+            0.04110187618842632,
+            -0.026425630872606437,
+            -0.021445179176173838,
+            -0.01982285946211156,
+            0.011704375817718118,
+            -0.009889254287988192
+        ],
+        "feature_importance_map": {
+            "radius error": 0.17795509099821155,
+            "mean radius": 0.09778025478681973,
+            "mean texture": 0.08732059550928402,
+            "mean compactness": 0.061036295558640145,
+            "mean symmetry": 0.04110187618842632,
+            "fractal dimension error": -0.026425630872606437,
+            "symmetry error": -0.021445179176173838,
+            "mean smoothness": -0.01982285946211156,
+            "mean fractal dimension": 0.011704375817718118,
+            "smoothness error": -0.009889254287988192
+        }
+    },
+    "6905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean smoothness",
+            "mean symmetry",
+            "fractal dimension error",
+            "smoothness error",
+            "mean fractal dimension",
+            "symmetry error"
+        ],
+        "weights": [
+            0.21045877851136283,
+            0.10089095058902564,
+            0.09065712338590974,
+            0.04634589096370225,
+            -0.022539725479062137,
+            0.019415153866677838,
+            -0.01708851651538407,
+            0.01191730387518397,
+            0.009853496830620733,
+            0.0072829286337771915
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21045877851136283,
+            "mean texture": 0.10089095058902564,
+            "mean radius": 0.09065712338590974,
+            "mean compactness": 0.04634589096370225,
+            "mean smoothness": -0.022539725479062137,
+            "mean symmetry": 0.019415153866677838,
+            "fractal dimension error": -0.01708851651538407,
+            "smoothness error": 0.01191730387518397,
+            "mean fractal dimension": 0.009853496830620733,
+            "symmetry error": 0.0072829286337771915
+        }
+    },
+    "7005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "smoothness error",
+            "mean symmetry",
+            "texture error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.2001786708529884,
+            0.09263754134008573,
+            0.07093435057868404,
+            0.06043280052390206,
+            -0.041142511036364314,
+            -0.027137983354916292,
+            0.022945500451512845,
+            0.01967825837899536,
+            -0.007818269169944053,
+            0.005119985397335885
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2001786708529884,
+            "mean radius": 0.09263754134008573,
+            "mean texture": 0.07093435057868404,
+            "mean compactness": 0.06043280052390206,
+            "fractal dimension error": -0.041142511036364314,
+            "mean smoothness": -0.027137983354916292,
+            "smoothness error": 0.022945500451512845,
+            "mean symmetry": 0.01967825837899536,
+            "texture error": -0.007818269169944053,
+            "symmetry error": 0.005119985397335885
+        }
+    },
+    "7105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "mean smoothness",
+            "smoothness error",
+            "texture error"
+        ],
+        "weights": [
+            0.21673312880008522,
+            0.09015129878630553,
+            0.07173075965113315,
+            0.05785140110364263,
+            0.05178243109161982,
+            -0.03920087310696376,
+            0.018162224673877764,
+            -0.012530441878131023,
+            0.010433110586791727,
+            0.010218005160433063
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21673312880008522,
+            "mean texture": 0.09015129878630553,
+            "mean radius": 0.07173075965113315,
+            "mean compactness": 0.05785140110364263,
+            "mean symmetry": 0.05178243109161982,
+            "fractal dimension error": -0.03920087310696376,
+            "mean fractal dimension": 0.018162224673877764,
+            "mean smoothness": -0.012530441878131023,
+            "smoothness error": 0.010433110586791727,
+            "texture error": 0.010218005160433063
+        }
+    },
+    "7205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "symmetry error",
+            "texture error",
+            "mean symmetry",
+            "compactness error"
+        ],
+        "weights": [
+            0.20537939268382618,
+            0.10608710327334565,
+            0.08957045977554215,
+            0.045008796420627877,
+            -0.03872235739885405,
+            -0.038584239860509364,
+            0.023185051562975498,
+            -0.013020392360648394,
+            0.0037660605197798462,
+            0.0020029271656395
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20537939268382618,
+            "mean texture": 0.10608710327334565,
+            "mean radius": 0.08957045977554215,
+            "mean compactness": 0.045008796420627877,
+            "fractal dimension error": -0.03872235739885405,
+            "mean smoothness": -0.038584239860509364,
+            "symmetry error": 0.023185051562975498,
+            "texture error": -0.013020392360648394,
+            "mean symmetry": 0.0037660605197798462,
+            "compactness error": 0.0020029271656395
+        }
+    },
+    "7305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean smoothness",
+            "mean fractal dimension",
+            "smoothness error",
+            "compactness error"
+        ],
+        "weights": [
+            0.22019366999441764,
+            0.10809853659774814,
+            0.08337742517052191,
+            0.057832602555899004,
+            0.04219740380897258,
+            -0.03944423109808094,
+            -0.029485662061700713,
+            0.02132359446712398,
+            -0.017171791121933795,
+            0.01639961694074233
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22019366999441764,
+            "mean radius": 0.10809853659774814,
+            "mean texture": 0.08337742517052191,
+            "mean compactness": 0.057832602555899004,
+            "mean symmetry": 0.04219740380897258,
+            "fractal dimension error": -0.03944423109808094,
+            "mean smoothness": -0.029485662061700713,
+            "mean fractal dimension": 0.02132359446712398,
+            "smoothness error": -0.017171791121933795,
+            "compactness error": 0.01639961694074233
+        }
+    },
+    "7405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "symmetry error",
+            "smoothness error",
+            "compactness error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.20270131441815606,
+            0.10969150174292921,
+            0.09075397603733486,
+            0.06157161514080593,
+            0.03315923803559776,
+            -0.029687545770119485,
+            0.025811699225046104,
+            -0.013395477890549701,
+            0.013358965470441372,
+            -0.012099713966772318
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20270131441815606,
+            "mean texture": 0.10969150174292921,
+            "mean radius": 0.09075397603733486,
+            "mean compactness": 0.06157161514080593,
+            "mean symmetry": 0.03315923803559776,
+            "fractal dimension error": -0.029687545770119485,
+            "symmetry error": 0.025811699225046104,
+            "smoothness error": -0.013395477890549701,
+            "compactness error": 0.013358965470441372,
+            "mean smoothness": -0.012099713966772318
+        }
+    },
+    "7505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "mean smoothness",
+            "fractal dimension error",
+            "smoothness error",
+            "symmetry error",
+            "compactness error"
+        ],
+        "weights": [
+            0.22160541270712097,
+            0.09474477623275068,
+            0.08640852516178933,
+            0.047329907335899965,
+            0.04322760140773063,
+            -0.04136516513004614,
+            -0.024506737332544118,
+            -0.013076312281413056,
+            0.011535540060643359,
+            0.010567839130902526
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22160541270712097,
+            "mean radius": 0.09474477623275068,
+            "mean texture": 0.08640852516178933,
+            "mean compactness": 0.047329907335899965,
+            "mean symmetry": 0.04322760140773063,
+            "mean smoothness": -0.04136516513004614,
+            "fractal dimension error": -0.024506737332544118,
+            "smoothness error": -0.013076312281413056,
+            "symmetry error": 0.011535540060643359,
+            "compactness error": 0.010567839130902526
+        }
+    },
+    "7605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean smoothness",
+            "symmetry error",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "mean symmetry",
+            "compactness error"
+        ],
+        "weights": [
+            0.19614026480008614,
+            0.08633026101604602,
+            0.057535875045009045,
+            0.05462182741109205,
+            -0.031015416463558824,
+            0.03074354906891093,
+            -0.02763974236530835,
+            0.02200388806246005,
+            0.02135527973901939,
+            0.010631423517226131
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19614026480008614,
+            "mean radius": 0.08633026101604602,
+            "mean texture": 0.057535875045009045,
+            "mean compactness": 0.05462182741109205,
+            "mean smoothness": -0.031015416463558824,
+            "symmetry error": 0.03074354906891093,
+            "fractal dimension error": -0.02763974236530835,
+            "mean fractal dimension": 0.02200388806246005,
+            "mean symmetry": 0.02135527973901939,
+            "compactness error": 0.010631423517226131
+        }
+    },
+    "7705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "compactness error",
+            "mean smoothness",
+            "texture error",
+            "smoothness error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.18913300040981323,
+            0.10026204748027147,
+            0.06575673788232528,
+            0.055497856979045496,
+            0.05163106885112804,
+            -0.02546729409071909,
+            -0.021059463357939134,
+            0.009091197986280698,
+            -0.006235750915318259,
+            -0.0048697128780584445
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18913300040981323,
+            "mean radius": 0.10026204748027147,
+            "mean texture": 0.06575673788232528,
+            "mean compactness": 0.055497856979045496,
+            "mean symmetry": 0.05163106885112804,
+            "compactness error": -0.02546729409071909,
+            "mean smoothness": -0.021059463357939134,
+            "texture error": 0.009091197986280698,
+            "smoothness error": -0.006235750915318259,
+            "symmetry error": -0.0048697128780584445
+        }
+    },
+    "7805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean symmetry",
+            "mean fractal dimension",
+            "fractal dimension error",
+            "symmetry error",
+            "mean smoothness",
+            "texture error",
+            "mean compactness"
+        ],
+        "weights": [
+            0.2027213305402351,
+            0.08828506517503244,
+            0.08400031061228652,
+            0.047566322194511665,
+            0.019861538322032985,
+            -0.012203280467033365,
+            0.011706871271925838,
+            -0.011403265517419712,
+            -0.010872257886401733,
+            0.010042919983917454
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2027213305402351,
+            "mean radius": 0.08828506517503244,
+            "mean texture": 0.08400031061228652,
+            "mean symmetry": 0.047566322194511665,
+            "mean fractal dimension": 0.019861538322032985,
+            "fractal dimension error": -0.012203280467033365,
+            "symmetry error": 0.011706871271925838,
+            "mean smoothness": -0.011403265517419712,
+            "texture error": -0.010872257886401733,
+            "mean compactness": 0.010042919983917454
+        }
+    },
+    "7905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean compactness",
+            "mean radius",
+            "mean texture",
+            "fractal dimension error",
+            "mean symmetry",
+            "compactness error",
+            "smoothness error",
+            "mean fractal dimension",
+            "texture error"
+        ],
+        "weights": [
+            0.1964309494681053,
+            0.07965891688422015,
+            0.0778289928734813,
+            0.06426699544843628,
+            -0.04306605737227087,
+            0.026339019297146823,
+            0.026334006490371615,
+            -0.02256707802121058,
+            0.02223300174360229,
+            -0.013636426027191527
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1964309494681053,
+            "mean compactness": 0.07965891688422015,
+            "mean radius": 0.0778289928734813,
+            "mean texture": 0.06426699544843628,
+            "fractal dimension error": -0.04306605737227087,
+            "mean symmetry": 0.026339019297146823,
+            "compactness error": 0.026334006490371615,
+            "smoothness error": -0.02256707802121058,
+            "mean fractal dimension": 0.02223300174360229,
+            "texture error": -0.013636426027191527
+        }
+    },
+    "8005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean smoothness",
+            "texture error",
+            "symmetry error",
+            "compactness error"
+        ],
+        "weights": [
+            0.18647982943622615,
+            0.10575388652221902,
+            0.0882795576223183,
+            0.043657756436832285,
+            0.027297243350060542,
+            -0.024590464638553442,
+            -0.016671617122082604,
+            -0.015871066894751304,
+            0.0019721002639397894,
+            0.0016733049816232033
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18647982943622615,
+            "mean texture": 0.10575388652221902,
+            "mean radius": 0.0882795576223183,
+            "mean compactness": 0.043657756436832285,
+            "mean symmetry": 0.027297243350060542,
+            "fractal dimension error": -0.024590464638553442,
+            "mean smoothness": -0.016671617122082604,
+            "texture error": -0.015871066894751304,
+            "symmetry error": 0.0019721002639397894,
+            "compactness error": 0.0016733049816232033
+        }
+    },
+    "8105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean compactness",
+            "mean texture",
+            "mean smoothness",
+            "fractal dimension error",
+            "compactness error",
+            "mean fractal dimension",
+            "mean symmetry",
+            "smoothness error"
+        ],
+        "weights": [
+            0.21868040317426343,
+            0.08624054415613663,
+            0.06540966651329969,
+            0.06216262486780394,
+            -0.0461324060685097,
+            -0.024853936722046104,
+            0.024095386583550742,
+            0.01979018204449006,
+            0.01707026837338719,
+            -0.007722567561602846
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21868040317426343,
+            "mean radius": 0.08624054415613663,
+            "mean compactness": 0.06540966651329969,
+            "mean texture": 0.06216262486780394,
+            "mean smoothness": -0.0461324060685097,
+            "fractal dimension error": -0.024853936722046104,
+            "compactness error": 0.024095386583550742,
+            "mean fractal dimension": 0.01979018204449006,
+            "mean symmetry": 0.01707026837338719,
+            "smoothness error": -0.007722567561602846
+        }
+    },
+    "8205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean fractal dimension",
+            "mean smoothness",
+            "compactness error",
+            "texture error"
+        ],
+        "weights": [
+            0.1932286346709919,
+            0.10117841569031671,
+            0.0724850105452646,
+            0.06480435489234215,
+            -0.03503500152586205,
+            0.03158574265290065,
+            0.021218857004154074,
+            -0.010216408530556465,
+            0.0061274840580271194,
+            0.005865760042252582
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1932286346709919,
+            "mean radius": 0.10117841569031671,
+            "mean texture": 0.0724850105452646,
+            "mean compactness": 0.06480435489234215,
+            "fractal dimension error": -0.03503500152586205,
+            "mean symmetry": 0.03158574265290065,
+            "mean fractal dimension": 0.021218857004154074,
+            "mean smoothness": -0.010216408530556465,
+            "compactness error": 0.0061274840580271194,
+            "texture error": 0.005865760042252582
+        }
+    },
+    "8305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "symmetry error",
+            "fractal dimension error",
+            "smoothness error",
+            "mean fractal dimension",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.20603970713683023,
+            0.09425124408700239,
+            0.07741605913800842,
+            0.05014510682523171,
+            0.02972755661716957,
+            0.029087264590085437,
+            -0.026372763697953355,
+            -0.01481006645076737,
+            0.014759357694883322,
+            -0.012663351816426482
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20603970713683023,
+            "mean radius": 0.09425124408700239,
+            "mean texture": 0.07741605913800842,
+            "mean compactness": 0.05014510682523171,
+            "mean symmetry": 0.02972755661716957,
+            "symmetry error": 0.029087264590085437,
+            "fractal dimension error": -0.026372763697953355,
+            "smoothness error": -0.01481006645076737,
+            "mean fractal dimension": 0.014759357694883322,
+            "mean smoothness": -0.012663351816426482
+        }
+    },
+    "8405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "compactness error",
+            "mean smoothness",
+            "symmetry error",
+            "smoothness error"
+        ],
+        "weights": [
+            0.20701937342458732,
+            0.10147813683569616,
+            0.09491246061267329,
+            0.04935324568065775,
+            0.03328562970442508,
+            -0.024900361925000742,
+            0.015654933312425606,
+            -0.006511818344902521,
+            -0.005877562261556774,
+            -0.0041632852239353296
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20701937342458732,
+            "mean radius": 0.10147813683569616,
+            "mean texture": 0.09491246061267329,
+            "mean compactness": 0.04935324568065775,
+            "mean symmetry": 0.03328562970442508,
+            "fractal dimension error": -0.024900361925000742,
+            "compactness error": 0.015654933312425606,
+            "mean smoothness": -0.006511818344902521,
+            "symmetry error": -0.005877562261556774,
+            "smoothness error": -0.0041632852239353296
+        }
+    },
+    "8505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "symmetry error",
+            "compactness error",
+            "mean smoothness",
+            "smoothness error"
+        ],
+        "weights": [
+            0.20552432187504344,
+            0.08689921416455455,
+            0.07381802054477278,
+            0.07351307663656594,
+            -0.03854412891668127,
+            0.03427855650087949,
+            0.019111108919835668,
+            0.015377597234994978,
+            -0.0070629428799725506,
+            -0.004915594856710241
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20552432187504344,
+            "mean radius": 0.08689921416455455,
+            "mean texture": 0.07381802054477278,
+            "mean compactness": 0.07351307663656594,
+            "fractal dimension error": -0.03854412891668127,
+            "mean symmetry": 0.03427855650087949,
+            "symmetry error": 0.019111108919835668,
+            "compactness error": 0.015377597234994978,
+            "mean smoothness": -0.0070629428799725506,
+            "smoothness error": -0.004915594856710241
+        }
+    },
+    "8605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "smoothness error",
+            "compactness error",
+            "symmetry error",
+            "texture error"
+        ],
+        "weights": [
+            0.1924550371845839,
+            0.08959139719768616,
+            0.0893667020911314,
+            0.052835562976735806,
+            -0.0446347553809591,
+            0.028178408755202698,
+            -0.020497935397892044,
+            0.016025636962361395,
+            0.011632139589236376,
+            0.007745878144141432
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1924550371845839,
+            "mean texture": 0.08959139719768616,
+            "mean radius": 0.0893667020911314,
+            "mean compactness": 0.052835562976735806,
+            "fractal dimension error": -0.0446347553809591,
+            "mean symmetry": 0.028178408755202698,
+            "smoothness error": -0.020497935397892044,
+            "compactness error": 0.016025636962361395,
+            "symmetry error": 0.011632139589236376,
+            "texture error": 0.007745878144141432
+        }
+    },
+    "8705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "mean smoothness",
+            "compactness error",
+            "fractal dimension error",
+            "smoothness error",
+            "texture error"
+        ],
+        "weights": [
+            0.20384665169306096,
+            0.09528756067481439,
+            0.06444782627513289,
+            0.05510193041231959,
+            0.034418388939817336,
+            -0.018680876132237317,
+            0.014553321159379086,
+            -0.014175374377080094,
+            -0.009714853333895502,
+            0.008847170399120734
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20384665169306096,
+            "mean radius": 0.09528756067481439,
+            "mean texture": 0.06444782627513289,
+            "mean compactness": 0.05510193041231959,
+            "mean symmetry": 0.034418388939817336,
+            "mean smoothness": -0.018680876132237317,
+            "compactness error": 0.014553321159379086,
+            "fractal dimension error": -0.014175374377080094,
+            "smoothness error": -0.009714853333895502,
+            "texture error": 0.008847170399120734
+        }
+    },
+    "8805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean symmetry",
+            "mean compactness",
+            "fractal dimension error",
+            "compactness error",
+            "smoothness error",
+            "mean fractal dimension",
+            "symmetry error"
+        ],
+        "weights": [
+            0.21215559035600398,
+            0.10119639688079186,
+            0.08611572090472613,
+            0.037705287302020704,
+            0.03333930124457689,
+            -0.02623253649667086,
+            0.019966948440927137,
+            -0.012164152661789806,
+            0.010217828378573298,
+            0.0061815482506305565
+        ],
+        "feature_importance_map": {
+            "radius error": 0.21215559035600398,
+            "mean texture": 0.10119639688079186,
+            "mean radius": 0.08611572090472613,
+            "mean symmetry": 0.037705287302020704,
+            "mean compactness": 0.03333930124457689,
+            "fractal dimension error": -0.02623253649667086,
+            "compactness error": 0.019966948440927137,
+            "smoothness error": -0.012164152661789806,
+            "mean fractal dimension": 0.010217828378573298,
+            "symmetry error": 0.0061815482506305565
+        }
+    },
+    "8905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "compactness error",
+            "mean symmetry",
+            "smoothness error",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "texture error"
+        ],
+        "weights": [
+            0.20279023109294272,
+            0.09850566850612577,
+            0.0782610304100531,
+            0.06471608281609416,
+            0.031352720254463236,
+            0.03003086293934095,
+            -0.018397320721405652,
+            -0.015929553302420543,
+            0.015688554876804556,
+            -0.004657628823031398
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20279023109294272,
+            "mean radius": 0.09850566850612577,
+            "mean texture": 0.0782610304100531,
+            "mean compactness": 0.06471608281609416,
+            "compactness error": 0.031352720254463236,
+            "mean symmetry": 0.03003086293934095,
+            "smoothness error": -0.018397320721405652,
+            "fractal dimension error": -0.015929553302420543,
+            "mean fractal dimension": 0.015688554876804556,
+            "texture error": -0.004657628823031398
+        }
+    },
+    "9005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "mean fractal dimension",
+            "compactness error",
+            "texture error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.20909717491954236,
+            0.08249519428370122,
+            0.06259548015573295,
+            0.058089718433321,
+            -0.04234517742707707,
+            0.03841344114885511,
+            0.019567803703906025,
+            0.018781971814948988,
+            0.017180010886561296,
+            -0.009961791225977673
+        ],
+        "feature_importance_map": {
+            "radius error": 0.20909717491954236,
+            "mean radius": 0.08249519428370122,
+            "mean texture": 0.06259548015573295,
+            "mean compactness": 0.058089718433321,
+            "fractal dimension error": -0.04234517742707707,
+            "mean symmetry": 0.03841344114885511,
+            "mean fractal dimension": 0.019567803703906025,
+            "compactness error": 0.018781971814948988,
+            "texture error": 0.017180010886561296,
+            "mean smoothness": -0.009961791225977673
+        }
+    },
+    "9105": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "smoothness error",
+            "texture error",
+            "mean fractal dimension",
+            "symmetry error"
+        ],
+        "weights": [
+            0.18665817339530785,
+            0.10693278847063561,
+            0.08472338024437626,
+            0.05208271503853651,
+            -0.03899067017747509,
+            0.025677390955500087,
+            -0.025654891023814,
+            -0.010376081666500902,
+            0.008715706375145132,
+            0.007936089285700143
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18665817339530785,
+            "mean texture": 0.10693278847063561,
+            "mean radius": 0.08472338024437626,
+            "mean compactness": 0.05208271503853651,
+            "fractal dimension error": -0.03899067017747509,
+            "mean symmetry": 0.025677390955500087,
+            "smoothness error": -0.025654891023814,
+            "texture error": -0.010376081666500902,
+            "mean fractal dimension": 0.008715706375145132,
+            "symmetry error": 0.007936089285700143
+        }
+    },
+    "9205": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "compactness error",
+            "texture error",
+            "mean fractal dimension",
+            "mean smoothness",
+            "fractal dimension error"
+        ],
+        "weights": [
+            0.19017902009803495,
+            0.0803102897174081,
+            0.07289936323030383,
+            0.06321359219647182,
+            0.043543141677945894,
+            0.04233596459944365,
+            -0.01904476262857735,
+            0.013104773731897279,
+            -0.0120043235330611,
+            -0.010532971908843978
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19017902009803495,
+            "mean radius": 0.0803102897174081,
+            "mean texture": 0.07289936323030383,
+            "mean compactness": 0.06321359219647182,
+            "mean symmetry": 0.043543141677945894,
+            "compactness error": 0.04233596459944365,
+            "texture error": -0.01904476262857735,
+            "mean fractal dimension": 0.013104773731897279,
+            "mean smoothness": -0.0120043235330611,
+            "fractal dimension error": -0.010532971908843978
+        }
+    },
+    "9305": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "mean symmetry",
+            "compactness error",
+            "mean smoothness",
+            "symmetry error",
+            "texture error"
+        ],
+        "weights": [
+            0.18799900042219622,
+            0.08920773551288876,
+            0.07886691803446232,
+            0.05363199567463691,
+            -0.03783076431651759,
+            0.026021201874249764,
+            0.02410965594154607,
+            -0.010430001506517864,
+            -0.009239417238398911,
+            -0.007515280416208369
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18799900042219622,
+            "mean texture": 0.08920773551288876,
+            "mean radius": 0.07886691803446232,
+            "mean compactness": 0.05363199567463691,
+            "fractal dimension error": -0.03783076431651759,
+            "mean symmetry": 0.026021201874249764,
+            "compactness error": 0.02410965594154607,
+            "mean smoothness": -0.010430001506517864,
+            "symmetry error": -0.009239417238398911,
+            "texture error": -0.007515280416208369
+        }
+    },
+    "9405": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "fractal dimension error",
+            "mean smoothness",
+            "mean symmetry",
+            "smoothness error",
+            "mean fractal dimension",
+            "compactness error"
+        ],
+        "weights": [
+            0.2074134958916468,
+            0.0916697589566022,
+            0.06476805948504641,
+            0.0449744853814978,
+            -0.04402905580338033,
+            -0.038279170669747585,
+            0.031726223372353514,
+            -0.019396431731155593,
+            0.019291562529528482,
+            0.012693439627027885
+        ],
+        "feature_importance_map": {
+            "radius error": 0.2074134958916468,
+            "mean radius": 0.0916697589566022,
+            "mean texture": 0.06476805948504641,
+            "mean compactness": 0.0449744853814978,
+            "fractal dimension error": -0.04402905580338033,
+            "mean smoothness": -0.038279170669747585,
+            "mean symmetry": 0.031726223372353514,
+            "smoothness error": -0.019396431731155593,
+            "mean fractal dimension": 0.019291562529528482,
+            "compactness error": 0.012693439627027885
+        }
+    },
+    "9505": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean smoothness",
+            "smoothness error",
+            "texture error",
+            "compactness error"
+        ],
+        "weights": [
+            0.18020418472042157,
+            0.0855841845743719,
+            0.07997073502798273,
+            0.04187994831090884,
+            0.027248755791751615,
+            -0.01924036331897636,
+            -0.01880824133012583,
+            -0.01059032968923876,
+            0.01015550926408993,
+            -0.006194380135962814
+        ],
+        "feature_importance_map": {
+            "radius error": 0.18020418472042157,
+            "mean radius": 0.0855841845743719,
+            "mean texture": 0.07997073502798273,
+            "mean compactness": 0.04187994831090884,
+            "mean symmetry": 0.027248755791751615,
+            "fractal dimension error": -0.01924036331897636,
+            "mean smoothness": -0.01880824133012583,
+            "smoothness error": -0.01059032968923876,
+            "texture error": 0.01015550926408993,
+            "compactness error": -0.006194380135962814
+        }
+    },
+    "9605": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean symmetry",
+            "mean compactness",
+            "compactness error",
+            "mean fractal dimension",
+            "smoothness error",
+            "symmetry error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.1950255434581593,
+            0.1026422973891814,
+            0.09336167131098264,
+            0.049120050225143576,
+            0.039735102192441,
+            0.010053273433122295,
+            -0.00980302527123887,
+            0.00957064166289254,
+            -0.008957353486392823,
+            -0.0011766146612701067
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1950255434581593,
+            "mean radius": 0.1026422973891814,
+            "mean texture": 0.09336167131098264,
+            "mean symmetry": 0.049120050225143576,
+            "mean compactness": 0.039735102192441,
+            "compactness error": 0.010053273433122295,
+            "mean fractal dimension": -0.00980302527123887,
+            "smoothness error": 0.00957064166289254,
+            "symmetry error": -0.008957353486392823,
+            "mean smoothness": -0.0011766146612701067
+        }
+    },
+    "9705": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean fractal dimension",
+            "smoothness error",
+            "mean smoothness",
+            "symmetry error"
+        ],
+        "weights": [
+            0.19661510051698727,
+            0.0862922084720305,
+            0.07748348442882823,
+            0.0468340421625209,
+            0.041668471737278806,
+            -0.03602533931710947,
+            0.031545702137268004,
+            -0.03075334893635372,
+            -0.02099427715224581,
+            -0.007264744344998108
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19661510051698727,
+            "mean texture": 0.0862922084720305,
+            "mean radius": 0.07748348442882823,
+            "mean compactness": 0.0468340421625209,
+            "mean symmetry": 0.041668471737278806,
+            "fractal dimension error": -0.03602533931710947,
+            "mean fractal dimension": 0.031545702137268004,
+            "smoothness error": -0.03075334893635372,
+            "mean smoothness": -0.02099427715224581,
+            "symmetry error": -0.007264744344998108
+        }
+    },
+    "9805": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean texture",
+            "mean radius",
+            "mean compactness",
+            "fractal dimension error",
+            "compactness error",
+            "mean smoothness",
+            "mean symmetry",
+            "texture error",
+            "symmetry error"
+        ],
+        "weights": [
+            0.22734527281015493,
+            0.09133571584671375,
+            0.06664963647390232,
+            0.06063176187067646,
+            -0.03625478785018744,
+            0.02230065364379704,
+            -0.01405382497480419,
+            0.01177394475816796,
+            0.006887011900078518,
+            0.006803178381827287
+        ],
+        "feature_importance_map": {
+            "radius error": 0.22734527281015493,
+            "mean texture": 0.09133571584671375,
+            "mean radius": 0.06664963647390232,
+            "mean compactness": 0.06063176187067646,
+            "fractal dimension error": -0.03625478785018744,
+            "compactness error": 0.02230065364379704,
+            "mean smoothness": -0.01405382497480419,
+            "mean symmetry": 0.01177394475816796,
+            "texture error": 0.006887011900078518,
+            "symmetry error": 0.006803178381827287
+        }
+    },
+    "9905": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "symmetry error",
+            "smoothness error",
+            "compactness error",
+            "mean smoothness"
+        ],
+        "weights": [
+            0.19194411268962192,
+            0.10669851382804163,
+            0.09484057776689159,
+            0.037944174370377615,
+            0.0272746997929838,
+            -0.02070513728603289,
+            0.015281319940467712,
+            -0.01199972098175655,
+            0.007610467187972059,
+            -0.00586621143481856
+        ],
+        "feature_importance_map": {
+            "radius error": 0.19194411268962192,
+            "mean radius": 0.10669851382804163,
+            "mean texture": 0.09484057776689159,
+            "mean compactness": 0.037944174370377615,
+            "mean symmetry": 0.0272746997929838,
+            "fractal dimension error": -0.02070513728603289,
+            "symmetry error": 0.015281319940467712,
+            "smoothness error": -0.01199972098175655,
+            "compactness error": 0.007610467187972059,
+            "mean smoothness": -0.00586621143481856
+        }
+    },
+    "10005": {
+        "prediction": 1,
+        "prediction_label": "Malignant",
+        "confidence": 0.9710871932142974,
+        "all_probabilities": {
+            "benign": 0.02891280678570332,
+            "malignant": 0.9710871932142974
+        },
+        "features": [
+            "radius error",
+            "mean radius",
+            "mean texture",
+            "mean compactness",
+            "mean symmetry",
+            "fractal dimension error",
+            "mean smoothness",
+            "smoothness error",
+            "mean fractal dimension",
+            "symmetry error"
+        ],
+        "weights": [
+            0.1931682629846482,
+            0.08900456252166358,
+            0.08572665593856377,
+            0.0440549452615902,
+            0.03376413140543669,
+            -0.025555462319143712,
+            -0.02313500553364637,
+            -0.013289546933583904,
+            0.011527642951806683,
+            0.006884323664471721
+        ],
+        "feature_importance_map": {
+            "radius error": 0.1931682629846482,
+            "mean radius": 0.08900456252166358,
+            "mean texture": 0.08572665593856377,
+            "mean compactness": 0.0440549452615902,
+            "mean symmetry": 0.03376413140543669,
+            "fractal dimension error": -0.025555462319143712,
+            "mean smoothness": -0.02313500553364637,
+            "smoothness error": -0.013289546933583904,
+            "mean fractal dimension": 0.011527642951806683,
+            "symmetry error": 0.006884323664471721
+        }
+    }
+}
